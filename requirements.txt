@@ -54,7 +54,7 @@ pillow==2.8.2
 
 httplib2==0.9.2
 pandas==0.17.1
-numpy==1.11.1
+numpy==1.21.0
 scipy==0.18.0
 sklearn>=0.0
 
